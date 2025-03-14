@@ -1,0 +1,25 @@
+/* Style pour le titre de niveau 1 */
+body {
+    background-image: url("../ImageDeFond/gnome.jpg");
+}
+h1 {
+    font-size: 2em;
+    color: red;
+    font-family: 'Arial Black', sans-serif;
+    text-align: center;
+}
+
+/* Style pour le titre de niveau 2 */
+h2 {
+    font-size: 1.4em;
+    color: blue;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    font-style: italic;
+}
+
+/* Style pour le paragraphe */
+p {
+    color: black;
+    font-family: Verdana, sans-serif;
+}
